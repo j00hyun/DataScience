@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<!--
+/**
+* @license
+* November FNI and Lava FNI by Tyotheque
+* Licensed pageviews: 20 million under sfu.ca
+*
+* The fonts listed in this notice are subject to the End User License: https://www.typotheque.com/licensing/eula
+* Agreement(s) entered into by SFU Communications and Marketing are only under sfu.ca domain and Simon Fraser University as a single legal company.
+* All other parties are explicitly restricted from using the Licensed Webfonts(s).
+*
+* Any non-AEM site under sfu.ca that wants to use fontface must get approval. Please submit a request via
+* https://sfu.teamdynamix.com/TDClient/255/ITServices/Requests/ServiceDet?ID=2576
+*
+* You may obtain a valid license at the URLs below if the site is not under sfu.ca domain.
+* URL: https://www.typotheque.com/fonts/november, https://www.typotheque.com/fonts/lava
+*
+*
+* @license
+* Countach by ProductionType
+* Licensed pageviews: unlimited under sfu.ca
+*
+* The fonts listed in this notice are subject to the End User License: https://help.productiontype.com/docs/EULA/
+* Agreement(s) entered into by SFU Communications and Marketing are only under sfu.ca domain and Simon Fraser University as a single legal company.
+* All other parties are explicitly restricted from using the Licensed Webfonts(s).
+*
+* You may obtain a valid license at the URLs below if the site is not under sfu.ca domain.
+* URL: https://productiontype.com/font/countach
+*
+* Please read https://www.sfu.ca/communicators-toolkit/guides/brand-guide/typography.html or email sfu-brand@sfu.ca for web fonts' details.
+*
+*/
+-->
+<html lang="en" data-page-template="basic-page" data-page-type="faculty-profile"    >
+
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge, chrome=1">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="/etc/designs/clf/clientlibs/clf4/default/css/default.css"/>
+	<title>  Ali Mahdavi-Amiri - School of Computing Science - Simon Fraser University  </title> 	<!-- Favicon -->
+	<link rel="icon" sizes="any" href="https://www.sfu.ca/favicon.ico">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.sfu.ca/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://www.sfu.ca/favicon-96x96.png">
+	<link rel="apple-touch-icon" href="https://www.sfu.ca/apple-touch-icon.png">
+	<link rel="manifest" href="https://www.sfu.ca/site.webmanifest">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="application-name" content="Simon Fraser University">
+	<meta name="apple-mobile-web-app-title" content="SFU"> 	<!-- Stylesheets -->
+	<!-- CSS added by us --> <link rel="stylesheet" href="/etc/designs/clf/clientlibs/pack/head-clf4.styles.min.css" type="text/css">
+  	<!-- Javascript -->
+	<!-- JS added by us before body --> <script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+ <script src="/etc.clientlibs/clientlibs/granite/jquery-ui.min.js"></script>
+<script src="/etc.clientlibs/foundation/clientlibs/jquery-ui.min.js"></script>
+ 	<!--[if lt IE 9]>
+    <script src="/etc/designs/clf/clientlibs/html5shiv.min.js"></script>
+<script src="/etc/designs/clf/clientlibs/respond.min.js"></script>
+
+<![endif]-->
+	<!--[if lte IE 9]>
+    <script src="/etc/designs/clf/clientlibs/matchmedia.min.js"></script>
+
+<![endif]--> 	<!-- CSS added by authors -->  <script type="text/javascript">
+		CQURLInfo = {
+			"requestPath": "/fas/computing/people/faculty/faculty-members/amahdavi",
+			"runModes": "p,s7connect,crx3,nosamplecontent,publish,crx3tar"
+		};
+		CQPageConfig = {};
+	</script>        	<!-- Google Tag Manager V4 -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-W87RML');
+	</script>
+	<!-- End Google Tag Manager V4 -->   	<meta property="og:title" content="Ali Mahdavi-Amiri" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content=https://www.sfu.ca/fas/computing/people/faculty/faculty-members/amahdavi.html />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="https://www.sfu.ca/content/dam/sfu/fas/schools/computing-science/faculty/ALI MAHDAVI-AMIRI.jpg" />
+	<meta property="og:image:width" content="480" />
+	<meta property="og:image:height" content="640" />  	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:title" content="Ali Mahdavi-Amiri" />
+	<meta name="twitter:description" content="" />
+	<meta name="twitter:image" content="https://www.sfu.ca/content/dam/sfu/fas/schools/computing-science/faculty/ALI MAHDAVI-AMIRI.jpg/jcr:content/renditions/medium.jpg" />  <script>
+		var $ = jQuery;
+		var clfSettings = {
+			ajaxSettings: {
+				ajaxLoader: `/etc/designs/clf/clientlibs/clf4/default/img/ajax-loader.gif`
+			}
+		};
+	</script>
+</head>
+
+<body data-page="fas_computing_people_faculty_faculty-members_amahdavi"> 	<!-- Google Tag Manager (noscript) V4 -->
+	<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-W87RML height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) V4 -->   <div id="container" class="">
+		<header>
+			<section class="ribbon">
+				<div class="ribbon__content" >
+					<div class="ribbon__content--social-icons">
+						<ul>
+							<li class="social-icons__home-link"><a href="https://www.sfu.ca/">sfu.ca</a></li>
+						</ul>  <div class="header-left inherited-parsys">						<div class="parsys">
+
+<div class="text parbase section">
+
+<div class="">
+<p><a href="https://www.facebook.com/SFUCompSci" target="_blank"><span class="icon">F</span></a> <a href="https://twitter.com/SFU_CompSci" target="_blank"><span class="icon">T</span></a> <a href="https://www.instagram.com/sfucompsci/" target="_blank"><span class="icon">I</span></a></p>
+
+</div></div>
+</div>
+
+			</div>
+ 					</div>
+					<div class="ribbon__content--audience-nav">  <div class="header-right inherited-parsys">						<div class="parsys">
+
+<div class="listclf3 parbase section">
+
+
+
+
+
+    
+    <ul class="sfu-list clf-list link-plain" >
+
+
+
+<li >
+    <p>
+    <a href="/fas/computing/intranet.html" title="CS Intranet">CS Intranet</a>
+    </p>
+</li></ul>
+</div>
+</div>
+
+			</div>
+  </div>
+					<div class="ribbon__content--mobile-logo">
+						<img src="/etc/designs/clf/clientlibs/clf4/default/img/sfu-logo-only@2x.png" alt=""/>
+					</div>
+					<div class="ribbon__content--mobile-nav-icons">
+						<span class="icon icon-menu">
+							<span>MENU</span>
+						</span>
+						<span class="icon icon-search"></span>
+					</div>
+				</div>
+			</section>
+			<div class="mobile-ribbon-spacer"></div>
+			<section class="header">
+				<div class="header__content">
+					<div class="header__content--identify">
+						<div class="header__content--logo"  >
+							<a href="/fas/computing.html">
+								<div class="sfu-brand-logo">
+									<img class="desktop" src="/etc/designs/clf/clientlibs/clf4/default/img/SFU@2x.png" alt=""/>
+								</div>
+								<div class="non-branded-logo">
+									<img class="desktop" src="" alt=""/>
+									<img class="mobile tablet" src="" alt=""/>
+								</div>
+							</a>
+						</div>
+						<div class="header__content--site-title">  <div class="parent-site-name"> <a href="/fas.html">Faculty of Applied Sciences</a> </div>  <div class="main-site-name">
+								<a href="/fas/computing.html"> School of Computing Science </a>
+							</div>
+						</div>
+						<div class="sfu-brand-extension-logo">  </div>
+					</div>
+					<div class="header__content--site-tools">
+						<ul class="site-tools__sign-in" >
+							<li>
+								<div class="site-tools__sign-in--trigger">sign in</div>
+								<ul class="site-tools__sign-in--sub-nav">
+									<li><a href="https://outlook.office.com">SFU Mail</a></li>
+									<li><a href="https://go.sfu.ca"><span>go</span>SFU</a></li>
+									<li><a href="https://canvas.sfu.ca">Canvas</a></li>
+								</ul>
+							</li>
+						</ul>
+						<div class="site-tools__search">
+							<form action="/search.html" id="search-form" method="get">
+								<div id="search-box-container">
+									<input type="text" tabindex="1" name="q" id="search-box" placeholder="SEARCH" />
+									<input type="hidden" name="p" value="/content/sfu/fas/computing" />
+									<i aria-hidden="" tabindex="4" class="icon icon-search">
+										<span class="sr-only">Search</span>
+									</i>
+								</div>
+								<div id="search-scope">
+									<input name="search-scope" value="site" tabindex="2" type="radio" id="this-site" checked="checked" /> <label for="this-site">This Site</label>
+									<input name="search-scope" value="sfu" tabindex="3" type="radio" id="sfu-ca" /> <label for="sfu-ca">SFU.ca</label>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+		<nav>
+			<section class="nav">
+				<div class="nav__content">
+					<div class="nav__content--main-navigation">   <ul>   							<li class="">    <a href="/fas/computing/about.html" class="has-sub-nav"> About </a>
+								<ul>   									<li class="">  <a href="/fas/computing/about/message-from-the-director.html">Message From the Director</a> </li>    									<li class="">  <a href="/fas/computing/about/industry-relations.html">Industry Relations</a> </li>    									<li class="">  <a href="/fas/computing/about/job-opportunities.html">Job Opportunities</a> </li>    									<li class="">  <a href="/fas/computing/about/diversity-cs.html">Diversity in CS</a> </li>    									<li class="">  <a href="/fas/computing/about/contact.html">Contact Us</a> </li>    									<li class="">  <a href="/fas/computing/about/cs-intranet.html">CS Intranet</a> </li>  								</ul> 							</li>   							<li class="active">    <a href="/fas/computing/people.html" class="has-sub-nav"> People </a>
+								<ul>   									<li class="">  <a href="/fas/computing/people/leadership.html">Leadership</a> </li>    									<li class="active">  <a href="/fas/computing/people/faculty.html">Faculty</a> </li>    									<li class="">  <a href="/fas/computing/people/staff.html">Staff</a> </li>  								</ul> 							</li>   							<li class="">    <a href="/fas/computing/future-students.html" class="has-sub-nav"> Future Students </a>
+								<ul>   									<li class="">  <a href="/fas/computing/future-students/undergraduates.html">Undergraduates</a> </li>    									<li class="">  <a href="/fas/computing/future-students/graduates.html">Graduates</a> </li>  								</ul> 							</li>   							<li class="">    <a href="/fas/computing/current-students.html" class="has-sub-nav"> Current Students </a>
+								<ul>   									<li class="">  <a href="/fas/computing/current-students/undergraduates.html">Undergraduates</a> </li>    									<li class="">  <a href="/fas/computing/current-students/graduates.html">Graduates</a> </li>    									<li class="">  <a href="/fas/computing/current-students/student-life.html">Student Life</a> </li>  								</ul> 							</li>   							<li class="">    <a href="/fas/computing/research.html" class="has-sub-nav"> Research </a>
+								<ul>   									<li class="">  <a href="/fas/computing/research/research-areas.html">Areas</a> </li>    									<li class="">  <a href="/fas/computing/research/labs.html">Labs</a> </li>    									<li class="">  <a href="/fas/computing/research/centres-and-institutes.html">Centres & Institutes</a> </li>    									<li class="">  <a href="/fas/computing/research/chairs.html">Chairs</a> </li>    									<li class="">  <a href="/fas/computing/research/awards.html">Awards</a> </li>    									<li class="">  <a href="/fas/computing/research/seminars.html">Seminars</a> </li>  								</ul> 							</li>   							<li class="">    <a href="/fas/computing/news-events.html" class="has-sub-nav"> News & Events </a>
+								<ul>   									<li class="">  <a href="/fas/computing/news-events/news.html">News</a> </li>    									<li class="">  <a href="/fas/computing/news-events/events.html">Events</a> </li>  								</ul> 							</li>   							<li class="">    <a href="/fas/computing/support.html" class="has-sub-nav"> Support </a>
+								<ul>   									<li class="">  <a href="/fas/computing/support/unix.html">CSIL Linux/UNIX FAQ</a> </li>    									<li class="">  <a href="/fas/computing/support/csil.html">CSIL</a> </li>    									<li class="">  <a href="/fas/computing/support/researchers.html">Grads & Researchers</a> </li>    									<li class="">  <a href="/fas/computing/support/tips.html">Guides & Tips</a> </li>  								</ul> 							</li> 						</ul>
+					</div>
+				</div>
+			</section>
+		</nav>
+		<main>
+			<section class="main">
+				<div class="main__content">
+					<div class="main__content--breadcrumb">
+						<ul>
+							<li><a href="/fas/computing.html">School of Computing Science</a></li>   <li><a href="/fas/computing/people.html">People</a> </li>    <li><a href="/fas/computing/people/faculty.html">Faculty</a> </li>    <li><a href="/fas/computing/people/faculty/faculty-members.html">Current Faculty </a> </li>    <li>Ali Mahdavi-Amiri</li>  						</ul>
+					</div>
+					<div class="main__content--content">     <div class="page-content side-nav">   													<!-- nav - content -->
+													<div class="page-content__side-nav">
+														<div class="page-content__side-nav--container">
+															<div id="side-bar-logo-container">
+																<div id="side-bar-logo">
+																	<img src="/etc/designs/clf/clientlibs/clf4/default/img/SFU@2x.png" alt=""/>
+																	<h2 class="site-title"><a href="/fas/computing.html">School of Computing Science</a></h2>
+																</div>
+															</div>
+															<ul>   <li class=" snav-l1">  <a href="/fas/computing/about.html" class="has-sub-nav">About</a>
+																	<ul>   <li class=" snav-l2">  <a href="/fas/computing/about/message-from-the-director.html">Message From the Director</a>  </li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/about/industry-relations.html">Industry Relations</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/about/industry-relations/mpcs-advisory-council.html">MPCS Advisory Council</a>   </li> 																			</ul>
+																		</li>    <li class=" snav-l2">  <a href="/fas/computing/about/job-opportunities.html">Job Opportunities</a>  </li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/about/diversity-cs.html">Diversity in CS</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/about/diversity-cs/computer-science-diversity-committee-webinars.html">Diversity Committee Webinars</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/about/diversity-cs/awards-and-scholarships.html">Awards and Project Presentations</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/about/diversity-cs/explore-computing-science-workshop-.html">2025 Explore Computing Science Research Workshop </a>   </li> 																			</ul>
+																		</li>    <li class=" snav-l2">  <a href="/fas/computing/about/contact.html">Contact Us</a>  </li>    <li class=" snav-l2">  <a href="/fas/computing/about/cs-intranet.html">CS Intranet</a>  </li>   </ul> 																</li>  <li class="active snav-l1">  <a href="/fas/computing/people.html" class="has-sub-nav">People</a>
+																	<ul>   <li class=" snav-l2">  <a href="/fas/computing/people/leadership.html">Leadership</a>  </li>    <li class="active snav-l2">  <a href="/fas/computing/people/faculty.html">Faculty</a>  </li>    <li class=" snav-l2">  <a href="/fas/computing/people/staff.html">Staff</a>  </li>   </ul> 																</li>  <li class=" snav-l1">  <a href="/fas/computing/future-students.html" class="has-sub-nav">Future Students</a>
+																	<ul>   <li class=" snav-l2">  <a href="/fas/computing/future-students/undergraduates.html">Undergraduates</a>  </li>    <li class=" snav-l2">  <a href="/fas/computing/future-students/graduates.html">Graduates</a>  </li>   </ul> 																</li>  <li class=" snav-l1">  <a href="/fas/computing/current-students.html" class="has-sub-nav">Current Students</a>
+																	<ul>   <li class=" has-third-level snav-l2">  <a href="/fas/computing/current-students/undergraduates.html">Undergraduates</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/program-requirements.html">Program Requirements</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/forms.html">Forms</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/policies.html">Policies</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/coop.html">Co-op</a>   </li>   <li class="  has-fourth-level snav-l3">   <a href="/fas/computing/current-students/undergraduates/student-resources.html">Student Resources</a>   <ul>  																						<li class=" snav-l4">   <a href="/fas/computing/current-students/undergraduates/student-resources/USRAInstructions.html">Undergraduate Student Research Award (USRA)</a>   </li>   <li class=" has-fifth-level snav-l4">   <a href="/fas/computing/current-students/undergraduates/student-resources/academic-enhancement-program.html">Academic Enhancement Program (AEP)</a>   <ul>  <li class=" snav-l5">  <a href="/fas/computing/current-students/undergraduates/student-resources/academic-enhancement-program/aep-in-the-news-.html">AEP in the News!</a>  </li>  </ul>  </li>   <li class=" has-fifth-level snav-l4">   <a href="/fas/computing/current-students/undergraduates/student-resources/CSPeerTutoring.html">Computing Science Peer Tutoring</a>   <ul>  <li class=" snav-l5">  <a href="/fas/computing/current-students/undergraduates/student-resources/CSPeerTutoring/Bios.html">Meet your CS  Peer Tutors</a>  </li>  </ul>  </li> 																					</ul>  </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/research-opportunities.html">Research Opportunities</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/cs-project-showcase.html">Undergraduate Project Showcase</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/undergraduates/frequently-asked-questions.html">Frequently Asked Questions</a>   </li> 																			</ul>
+																		</li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/current-students/graduates.html">Graduates</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/program-requirements.html">Program Requirements</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/policies.html">Policies</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/forms.html">Forms</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/financial-support-scholarships.html">Financial Support</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/student-resources.html">Resources</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/supervisory-committee.html">Supervisory Committee</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/thesis-defence.html">Thesis & Defence</a>   </li>   <li class="  has-fourth-level snav-l3">   <a href="/fas/computing/current-students/graduates/work-experience.html">Internships & Co-op</a>   <ul>  																						<li class=" snav-l4">   <a href="/fas/computing/current-students/graduates/work-experience/mpcs-coop.html">MPCS Co-op</a>   </li>  																						<li class=" snav-l4">   <a href="/fas/computing/current-students/graduates/work-experience/industrial-internships.html">Industrial Internships</a>   </li> 																					</ul>  </li>  																				<li class=" snav-l3">   <a href="/fas/computing/current-students/graduates/ta-tm-sessional-employment.html">Teaching Assistantships</a>   </li> 																			</ul>
+																		</li>    <li class=" snav-l2">  <a href="/fas/computing/current-students/student-life.html">Student Life</a>  </li>   </ul> 																</li>  <li class=" snav-l1">  <a href="/fas/computing/research.html" class="has-sub-nav">Research</a>
+																	<ul>   <li class=" snav-l2">  <a href="/fas/computing/research/research-areas.html">Areas</a>  </li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/research/labs.html">Labs</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/research/labs/trustworthy-artificial-intelligence--tai--lab.html">Trustworthy Artificial Intelligence (TAI) Lab</a>   </li> 																			</ul>
+																		</li>    <li class=" snav-l2">  <a href="/fas/computing/research/centres-and-institutes.html">Centres & Institutes</a>  </li>    <li class=" snav-l2">  <a href="/fas/computing/research/chairs.html">Chairs</a>  </li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/research/awards.html">Awards</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/research/awards/nominations-for-cs-excellence-in-teaching-awards.html">Nominations for CS Excellence in Teaching Awards</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/research/awards/best-paper-award.html">Best Paper Award</a>   </li> 																			</ul>
+																		</li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/research/seminars.html">Seminars</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/research/seminars/distinguished-lecture-series.html">Distinguished Lecture Series</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/research/seminars/industry-talks-series.html">Industry Talks Series</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/research/seminars/vcr-ai.html">VCR/AI</a>   </li> 																			</ul>
+																		</li>   </ul> 																</li>  <li class=" snav-l1">  <a href="/fas/computing/news-events.html" class="has-sub-nav">News & Events</a>
+																	<ul>   <li class=" has-third-level snav-l2">  <a href="/fas/computing/news-events/news.html">News</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/news-events/news/2026.html">2026</a>   </li> 																			</ul>
+																		</li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/news-events/events.html">Events</a>  <ul>   <li class="  has-fourth-level snav-l3">   <a href="/fas/computing/news-events/events/icpc.html">ICPC Programming Contest</a>   <ul>  																						<li class=" snav-l4">   <a href="/fas/computing/news-events/events/icpc/about.html">About ICPC</a>   </li>  																						<li class=" snav-l4">   <a href="/fas/computing/news-events/events/icpc/icpc-pacnw-sfu.html">ICPC PACNW | SFU</a>   </li> 																					</ul>  </li> 																			</ul>
+																		</li>   </ul> 																</li>  <li class=" snav-l1">  <a href="/fas/computing/support.html" class="has-sub-nav">Support</a>
+																	<ul>   <li class=" has-third-level snav-l2">  <a href="/fas/computing/support/unix.html">CSIL Linux/UNIX FAQ</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/support/unix/known-issues.html">CSIL Linux/Unix Known Issues</a>   </li>  																				<li class=" snav-l3">   <a href="/fas/computing/support/unix/networking-lab.html">Network Lab FAQ</a>   </li> 																			</ul>
+																		</li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/support/csil.html">CSIL</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/support/csil/remote-access.html">Remote Access</a>   </li>   <li class="  has-fourth-level snav-l3">   <a href="/fas/computing/support/csil/windows.html">CSIL Windows systems</a>   <ul>  																						<li class=" snav-l4">   <a href="/fas/computing/support/csil/windows/known-issues.html">Known Issues</a>   </li> 																					</ul>  </li>   <li class="  has-fourth-level snav-l3">   <a href="/fas/computing/support/csil/unix.html">CSIL Linux/UNIX FAQ</a>   <ul>  																						<li class=" snav-l4">   <a href="/fas/computing/support/csil/unix/command-line.html">Basic Linux Command Line Survival</a>   </li>  																						<li class=" snav-l4">   <a href="/fas/computing/support/csil/unix/known-issues.html">Known Issues</a>   </li>  																						<li class=" snav-l4">   <a href="/fas/computing/support/csil/unix/kill-processes.html">How to kill Unix Processes</a>   </li> 																					</ul>  </li> 																			</ul>
+																		</li>    <li class=" snav-l2">  <a href="/fas/computing/support/researchers.html">Grads & Researchers</a>  </li>    <li class=" has-third-level snav-l2">  <a href="/fas/computing/support/tips.html">Guides & Tips</a>  <ul>  																				<li class=" snav-l3">   <a href="/fas/computing/support/tips/print-photocopy-scan.html">Print, Photocopy & Scan</a>   </li> 																			</ul>
+																		</li>   </ul> 																</li>   </ul>  <div class="below-vertical-nav inherited-parsys">				</div>
+ 														</div>
+													</div>
+													<div class="page-content__main">   <div class="faculty-profile-container show-image">
+															<div class="faculty-profile-card">
+																<div class="faculty-profile-container--image">
+																	<img src="/content/sfu/fas/computing/people/faculty/faculty-members/amahdavi.img.2054915337.png" alt="" class="faculty-profile-image"/>
+																</div>
+																<div class="faculty-profile-container--position-info">  <h1>Ali Mahdavi-Amiri </h1>    <div class="position-info--position">  Assistant Professor of Professional Practice | Director, Professional Master's in Computer Science  </div>   <div class="position-info--department">Computing Science</div>   </div>
+																<div class="faculty-profile-container--contact-info">
+																	<ul class="faculty-profile-details">   <li>
+																			<span class="value"><a href="mailto:amahdavi@sfu.ca" class="faculty-profile-icon email"><span>amahdavi@sfu.ca</span></a></span>
+																		</li>   <li>
+																			<span class="value"><a href="https://arash-mham.github.io/" target="_blank" class="faculty-profile-icon personal-site"><span>arash-mham.github.io/</span></a></span>
+																		</li>   <li>
+																			<span class="value"><a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=TASC1%209405" target="_blank" class="faculty-profile-icon office"><span>TASC1 9405</span></a></span>
+																		</li>  </ul>
+																</div>
+															</div>
+															<div class="faculty-profile-container--additional-info">  <h2>Areas of interest</h2>
+																<p>Research Interests:<br />Deep geometry processing<br />Computational fabrication<br />Geometric modelling<br />Computer graphics<br /><br />Teaching Interests:<br />Visual computing<br />Artificial intelligence<br />Geometric modeling<br />Computer graphics</p>   <h2>Education</h2>
+																<ul>  <li>PhD in Computer Science, University of Calgary
+</li>  <li>MSc in Computer Science, Sharif University of Technology</li>  </ul>  															</div>
+														</div>   <div class="above-main inherited-parsys">				</div>
+ <div class="main_content parsys">
+
+<div class="courses section"><div class="courses ">
+            <h3 class="course-header">Courses</h3>
+    
+    
+                                        <div id="term-1261" style="display: block;">
+                    <h4>Spring 2026</h4>
+                    <ul>
+                                                    <li><a href="//www.sfu.ca/outlines.html?2026/spring/cmpt/743/g100">CMPT 743 G100 Visual Computing Lab II</a></li>
+                                                    <li><a href="//www.sfu.ca/outlines.html?2026/spring/cmpt/894/g300">CMPT 894 G300 Directed Reading</a></li>
+                                            </ul>
+                </div>
+
+                                                                                                                                
+                            
+                <p class=disclaimer>Future courses may be subject to change.</p>
+    
+    
+</div>
+
+</div>
+</div>
+ <div class="below-main inherited-parsys">				</div>
+   </div>  																</div> 															</div>
+														</div>
+			</section>
+		</main>
+		<footer>
+			<section class="footer">
+				<div class="footer__content">
+					<div class="footer__content--sfu-global">
+						<div class="sfu-global--site-links">
+							<h5>School of Computing Science</h5>
+							<ul>  <li> <a href="/fas/computing/about.html">About</a> </li>  <li> <a href="/fas/computing/people.html">People</a> </li>  <li> <a href="/fas/computing/future-students.html">Future Students</a> </li>  <li> <a href="/fas/computing/current-students.html">Current Students</a> </li>  <li> <a href="/fas/computing/research.html">Research</a> </li>  <li> <a href="/fas/computing/news-events.html">News & Events</a> </li>  <li> <a href="/fas/computing/support.html">Support</a> </li>  </ul>
+						</div>
+						<div class="sfu-global--contact-info">  <div class="contact-us inherited-parsys">						<div class="parsys">
+
+<div class="text parbase section">
+
+<div class="">
+<h3>Contact us</h3>
+</div></div>
+<div class="text parbase section">
+
+<div class="">
+<p>8888 University Drive<br>Burnaby, B.C.<br>Canada V5A 1S6 </p>
+</div></div>
+</div>
+
+			</div>
+  <div class="sfu-global--footer-social-links">
+								<!-- populated by js -->
+							</div>
+						</div>
+					</div>
+					<div class="footer__content--sfu-links">
+						<ul>
+							<li><a href="https://www.sfu.ca/srs">Safety &amp; Risk</a></li>
+							<li><a href="https://www.sfu.ca/campuses/maps-and-directions">SFU Maps &amp; Directions</a></li>
+							<li><a href="https://www.sfu.ca/admission">SFU Admissions</a></li>
+							<li><a href="https://www.sfu.ca/srs/campus-safety-security/traffic-safety/road-report.html">Road Report</a></li>
+							<li><a href="https://give.sfu.ca">Give to SFU</a></li>
+							<li><a href="https://www.sfu.ca/emergency">Emergency Information</a></li>
+							<li><a href="https://www.sfu.ca/dir/a.html">A-Z Directory</a></li>
+						</ul>
+					</div>
+					<div class="footer__content--sfu-info">
+						<div class="footer__content--sfu-info-logo">
+							<img src="/etc/designs/clf/clientlibs/clf4/default/img/SFU_horizontal_reversed_colour_rgb.png" alt="" class="footer__content--sfu-info-logo__img--dark-theme"/>
+							<img src="/etc/designs/clf/clientlibs/clf4/default/img/SFU@2x.png" alt="" class="footer__content--sfu-info-logo__img--light-theme"/>
+						</div>
+						<div class="footer__content--sfu-info-acknowledgement">
+							<p>Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.</p>
+							<p class="legal"><a href="https://www.sfu.ca/contact/terms-conditions.html">Terms &amp; Conditions</a><a href="https://www.sfu.ca/contact/terms-conditions/privacy.html">Privacy policy</a><a href="https://www.sfu.ca">&copy; Simon Fraser University</a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</footer>
+		<section class="mobile-nav">
+			<div class="mobile-nav__content">
+				<div class="mobile-nav__content--site-title">
+					<div class="parent-site-name">
+					</div>
+					<div class="main-site-name">
+						<!--populate by js -->
+						<span class="close-mobile-nav">
+							<!-- populated by css -->
+						</span>
+					</div>
+				</div>
+				<div class="mobile-nav__content--nav-list">
+					<div class="mobile-nav__main-nav">
+						<ul>     							<li class="">    <a href="/fas/computing/about.html" class="has-sub-nav">About</a>
+								<ul> 									<li>  <a href="/fas/computing/about.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/about/message-from-the-director.html">Message From the Director</a> 									</li>   									<li class="">    <a href="/fas/computing/about/industry-relations.html" class="has-third-level">Industry Relations</a>
+										<ul>  <li><a href="/fas/computing/about/industry-relations.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/about/industry-relations/mpcs-advisory-council.html" class="mnav-l3">MPCS Advisory Council</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/about/job-opportunities.html">Job Opportunities</a> 									</li>   									<li class="">    <a href="/fas/computing/about/diversity-cs.html" class="has-third-level">Diversity in CS</a>
+										<ul>  <li><a href="/fas/computing/about/diversity-cs.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/about/diversity-cs/computer-science-diversity-committee-webinars.html" class="mnav-l3">Diversity Committee Webinars</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/about/diversity-cs/awards-and-scholarships.html" class="mnav-l3">Awards and Project Presentations</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/about/diversity-cs/explore-computing-science-workshop-.html" class="mnav-l3">2025 Explore Computing Science Research Workshop </a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/about/contact.html">Contact Us</a> 									</li>   									<li class="">    <a href="/fas/computing/about/cs-intranet.html">CS Intranet</a> 									</li> 								</ul> 							</li>   							<li class="active">    <a href="/fas/computing/people.html" class="has-sub-nav">People</a>
+								<ul> 									<li>  <a href="/fas/computing/people.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/people/leadership.html">Leadership</a> 									</li>   									<li class="active">    <a href="/fas/computing/people/faculty.html">Faculty</a> 									</li>   									<li class="">    <a href="/fas/computing/people/staff.html">Staff</a> 									</li> 								</ul> 							</li>   							<li class="">    <a href="/fas/computing/future-students.html" class="has-sub-nav">Future Students</a>
+								<ul> 									<li>  <a href="/fas/computing/future-students.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/future-students/undergraduates.html">Undergraduates</a> 									</li>   									<li class="">    <a href="/fas/computing/future-students/graduates.html">Graduates</a> 									</li> 								</ul> 							</li>   							<li class="">    <a href="/fas/computing/current-students.html" class="has-sub-nav">Current Students</a>
+								<ul> 									<li>  <a href="/fas/computing/current-students.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/current-students/undergraduates.html" class="has-third-level">Undergraduates</a>
+										<ul>  <li><a href="/fas/computing/current-students/undergraduates.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/program-requirements.html" class="mnav-l3">Program Requirements</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/forms.html" class="mnav-l3">Forms</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/policies.html" class="mnav-l3">Policies</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/coop.html" class="mnav-l3">Co-op</a>  <ul> 												</ul>
+											</li>     											<li class=" has-fourth-level">    <a href="/fas/computing/current-students/undergraduates/student-resources.html" class="mnav-l3">Student Resources</a>  <ul>   													<li class="">    <a href="/fas/computing/current-students/undergraduates/student-resources/USRAInstructions.html" class="mnav-l4">Undergraduate Student Research Award (USRA)</a>  <ul> 														</ul>
+													</li>   													<li class=" has-fifth-level">    <a href="/fas/computing/current-students/undergraduates/student-resources/academic-enhancement-program.html" class="mnav-l4">Academic Enhancement Program (AEP)</a>  <ul>  															<li class="">   <a href="/fas/computing/current-students/undergraduates/student-resources/academic-enhancement-program/aep-in-the-news-.html" class="mnav-l5">AEP in the News!</a>  </li> 														</ul>
+													</li>   													<li class=" has-fifth-level">    <a href="/fas/computing/current-students/undergraduates/student-resources/CSPeerTutoring.html" class="mnav-l4">Computing Science Peer Tutoring</a>  <ul>  															<li class="">   <a href="/fas/computing/current-students/undergraduates/student-resources/CSPeerTutoring/Bios.html" class="mnav-l5">Meet your CS  Peer Tutors</a>  </li> 														</ul>
+													</li> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/research-opportunities.html" class="mnav-l3">Research Opportunities</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/cs-project-showcase.html" class="mnav-l3">Undergraduate Project Showcase</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/undergraduates/frequently-asked-questions.html" class="mnav-l3">Frequently Asked Questions</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/current-students/graduates.html" class="has-third-level">Graduates</a>
+										<ul>  <li><a href="/fas/computing/current-students/graduates.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/current-students/graduates/program-requirements.html" class="mnav-l3">Program Requirements</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/policies.html" class="mnav-l3">Policies</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/forms.html" class="mnav-l3">Forms</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/financial-support-scholarships.html" class="mnav-l3">Financial Support</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/student-resources.html" class="mnav-l3">Resources</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/supervisory-committee.html" class="mnav-l3">Supervisory Committee</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/thesis-defence.html" class="mnav-l3">Thesis & Defence</a>  <ul> 												</ul>
+											</li>     											<li class=" has-fourth-level">    <a href="/fas/computing/current-students/graduates/work-experience.html" class="mnav-l3">Internships & Co-op</a>  <ul>   													<li class="">    <a href="/fas/computing/current-students/graduates/work-experience/mpcs-coop.html" class="mnav-l4">MPCS Co-op</a>  <ul> 														</ul>
+													</li>   													<li class="">    <a href="/fas/computing/current-students/graduates/work-experience/industrial-internships.html" class="mnav-l4">Industrial Internships</a>  <ul> 														</ul>
+													</li> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/current-students/graduates/ta-tm-sessional-employment.html" class="mnav-l3">Teaching Assistantships</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/current-students/student-life.html">Student Life</a> 									</li> 								</ul> 							</li>   							<li class="">    <a href="/fas/computing/research.html" class="has-sub-nav">Research</a>
+								<ul> 									<li>  <a href="/fas/computing/research.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/research/research-areas.html">Areas</a> 									</li>   									<li class="">    <a href="/fas/computing/research/labs.html" class="has-third-level">Labs</a>
+										<ul>  <li><a href="/fas/computing/research/labs.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/research/labs/trustworthy-artificial-intelligence--tai--lab.html" class="mnav-l3">Trustworthy Artificial Intelligence (TAI) Lab</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/research/centres-and-institutes.html">Centres & Institutes</a> 									</li>   									<li class="">    <a href="/fas/computing/research/chairs.html">Chairs</a> 									</li>   									<li class="">    <a href="/fas/computing/research/awards.html" class="has-third-level">Awards</a>
+										<ul>  <li><a href="/fas/computing/research/awards.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/research/awards/nominations-for-cs-excellence-in-teaching-awards.html" class="mnav-l3">Nominations for CS Excellence in Teaching Awards</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/research/awards/best-paper-award.html" class="mnav-l3">Best Paper Award</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/research/seminars.html" class="has-third-level">Seminars</a>
+										<ul>  <li><a href="/fas/computing/research/seminars.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/research/seminars/distinguished-lecture-series.html" class="mnav-l3">Distinguished Lecture Series</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/research/seminars/industry-talks-series.html" class="mnav-l3">Industry Talks Series</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/research/seminars/vcr-ai.html" class="mnav-l3">VCR/AI</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li> 								</ul> 							</li>   							<li class="">    <a href="/fas/computing/news-events.html" class="has-sub-nav">News & Events</a>
+								<ul> 									<li>  <a href="/fas/computing/news-events.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/news-events/news.html" class="has-third-level">News</a>
+										<ul>  <li><a href="/fas/computing/news-events/news.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/news-events/news/2026.html" class="mnav-l3">2026</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/news-events/events.html" class="has-third-level">Events</a>
+										<ul>  <li><a href="/fas/computing/news-events/events.html" class="mnav-l3">Overview</a></li>     											<li class=" has-fourth-level">    <a href="/fas/computing/news-events/events/icpc.html" class="mnav-l3">ICPC Programming Contest</a>  <ul>   													<li class="">    <a href="/fas/computing/news-events/events/icpc/about.html" class="mnav-l4">About ICPC</a>  <ul> 														</ul>
+													</li>   													<li class="">    <a href="/fas/computing/news-events/events/icpc/icpc-pacnw-sfu.html" class="mnav-l4">ICPC PACNW | SFU</a>  <ul> 														</ul>
+													</li> 												</ul>
+											</li>  										</ul> 									</li> 								</ul> 							</li>   							<li class="">    <a href="/fas/computing/support.html" class="has-sub-nav">Support</a>
+								<ul> 									<li>  <a href="/fas/computing/support.html">Overview</a> </li>   									<li class="">    <a href="/fas/computing/support/unix.html" class="has-third-level">CSIL Linux/UNIX FAQ</a>
+										<ul>  <li><a href="/fas/computing/support/unix.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/support/unix/known-issues.html" class="mnav-l3">CSIL Linux/Unix Known Issues</a>  <ul> 												</ul>
+											</li>     											<li class="">    <a href="/fas/computing/support/unix/networking-lab.html" class="mnav-l3">Network Lab FAQ</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/support/csil.html" class="has-third-level">CSIL</a>
+										<ul>  <li><a href="/fas/computing/support/csil.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/support/csil/remote-access.html" class="mnav-l3">Remote Access</a>  <ul> 												</ul>
+											</li>     											<li class=" has-fourth-level">    <a href="/fas/computing/support/csil/windows.html" class="mnav-l3">CSIL Windows systems</a>  <ul>   													<li class="">    <a href="/fas/computing/support/csil/windows/known-issues.html" class="mnav-l4">Known Issues</a>  <ul> 														</ul>
+													</li> 												</ul>
+											</li>     											<li class=" has-fourth-level">    <a href="/fas/computing/support/csil/unix.html" class="mnav-l3">CSIL Linux/UNIX FAQ</a>  <ul>   													<li class="">    <a href="/fas/computing/support/csil/unix/command-line.html" class="mnav-l4">Basic Linux Command Line Survival</a>  <ul> 														</ul>
+													</li>   													<li class="">    <a href="/fas/computing/support/csil/unix/known-issues.html" class="mnav-l4">Known Issues</a>  <ul> 														</ul>
+													</li>   													<li class="">    <a href="/fas/computing/support/csil/unix/kill-processes.html" class="mnav-l4">How to kill Unix Processes</a>  <ul> 														</ul>
+													</li> 												</ul>
+											</li>  										</ul> 									</li>   									<li class="">    <a href="/fas/computing/support/researchers.html">Grads & Researchers</a> 									</li>   									<li class="">    <a href="/fas/computing/support/tips.html" class="has-third-level">Guides & Tips</a>
+										<ul>  <li><a href="/fas/computing/support/tips.html" class="mnav-l3">Overview</a></li>     											<li class="">    <a href="/fas/computing/support/tips/print-photocopy-scan.html" class="mnav-l3">Print, Photocopy & Scan</a>  <ul> 												</ul>
+											</li>  										</ul> 									</li> 								</ul> 							</li> 						</ul>
+					</div>
+					<div class="mobile-nav__audience-nav">
+						<!-- populated by js -->
+					</div>
+				</div>
+			</div>
+			<div class="mobile-nav__third-level-container">
+				<div class="mobile-nav__third-level-container--nav-name">
+					<span>
+						<!-- populated by js -->
+					</span>
+				</div>
+				<div class="mobile-nav__third-level-container--nav-items">
+					<!-- populated by js -->
+				</div>
+			</div>
+			<div class="mobile-nav__social-icons">
+				<ul class="mobile-nav__social-icons--home-link">
+					<li><a href="https://www.sfu.ca/">SFU.CA</a></li>
+				</ul>
+				<div class="mobile-nav__social-icons--social-links">
+					<!-- populated by js -->
+				</div>
+			</div>
+		</section>
+		<section class="mobile-search">
+			<div class="mobile-search__content">
+				<div class="mobile-search__content--site-title">
+					<div class="mobile-search-header">
+						<span>Search</span>
+						<span class="close-mobile-search">
+							<!-- populated by css -->
+						</span>
+					</div>
+				</div>
+				<div class="mobile-search__content--search-form">
+					<form action="/search.html" id="search-form" method="get">
+						<div id="mobile-search-box-container">
+							<input type="text" name="q" id="mobile-search-box" placeholder="SEARCH" />
+							<input type="hidden" name="p" value="/content/sfu/fas/computing" />
+							<i aria-hidden="" class="icon icon-search">
+								<span class="sr-only">Search</span>
+							</i>
+						</div>
+						<div id="mobile-search-scope">
+							<input name="search-scope" value="site" type="radio" id="mobile-this-site" checked="checked" /> <label for="mobile-this-site">This Site</label>
+							<input name="search-scope" value="sfu" type="radio" id="mobile-sfu-ca" /> <label for="mobile-sfu-ca">SFU.ca</label>
+						</div>
+					</form>
+				</div>
+				<div class="mobile-search-links" >
+					<ul>
+						<li><a href="https://outlook.office.com">SFU Mail</a></li>
+						<li><a href="https://go.sfu.ca"><span>go</span>SFU</a></li>
+						<li><a href="https://canvas.sfu.ca">Canvas</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section class="popup">
+			<div class="popup__container">
+				<div class="popup__container--overlay"></div>
+				<div class="popup__container--wrapper">
+					<div class="popup__container--header">
+						<div class="popup-title"></div>
+						<div class="popup-close-button" aria-label="close popup"></div>
+					</div>
+					<div class="popup__container--content">
+						<div class="sfu-global-spinner-container"></div>
+					</div>
+					<div class="popup__container--mobile-close">close</div>
+				</div>
+			</div>
+		</section>
+		<script src="/etc/designs/clf/clientlibs/clf4/default/js/default.base.concat.js"></script>
+		<!-- JS added by us after body -->  <script src="/etc/designs/clf/clientlibs/pack/footer-clf4.scripts.min.js"></script>
+  <script src="/etc/designs/sfu/clientlibs/toggleFormContent.min.js"></script>
+  		<!-- JS added by authors --> 	</div> </body>
+
+</html>
+<!-- build 4.0.0 -->
