@@ -1,0 +1,80 @@
+﻿Dataset Description: Music Features and Popularity
+
+
+This dataset contains information about songs that appeared on the Billboard charts.
+Each row represents one song, and each column describes a specific musical or contextual attribute.
+
+
+Below is a detailed explanation of every field in the dataset: 
+
+
+title  
+The title of the song.
+
+
+artist  
+The artist or main performer of the song.
+
+
+top genre  
+The primary musical genre of the song (e.g., Pop, Hip-Hop, Rock).
+
+
+year  
+The year in which the song appeared on the Billboard chart.
+
+
+bpm  
+Beats per minute.  
+This measures the tempo of the song.
+
+
+nrgy  
+Energy of the song.  
+Higher values indicate more energetic tracks, typically loud, fast, and intense.
+
+
+dnce  
+Danceability of the song.  
+Higher values indicate songs that are easier to dance to.
+This feature combines tempo, rhythm stability, and beat strength.
+
+
+dB  
+Loudness of the song, measured in decibels (dB).  
+Values are usually negative, where values closer to 0 indicate louder songs.
+
+
+live  
+Liveness.  
+This represents the likelihood that the song was recorded with a live audience.
+Higher values suggest live performance characteristics.
+
+
+val  
+Valence.  
+This describes the musical positiveness of a song.
+Higher values indicate a more positive, happy, or cheerful sound,
+while lower values suggest a sadder or more negative tone.
+
+
+dur  
+Duration of the song, typically measured in seconds.
+
+
+acous  
+Acousticness.  
+This represents the likelihood that the song is acoustic.
+Higher values indicate fewer electronic elements.
+
+
+spch  
+Speechiness.  
+Higher values indicate more spoken words in the song
+(e.g., rap, spoken interludes).
+
+
+pop  
+Popularity.  
+A relative popularity score for the song.
+Higher values indicate that the song was more popular.
