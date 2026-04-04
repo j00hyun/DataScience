@@ -1,0 +1,13 @@
+torch==2.2.2
+transformers==4.55.0
+datasets==2.19.2
+sentence-transformers
+evaluate
+nltk
+gensim
+matplotlib
+numpy<2
+pandas
+scikit-learn
+jupyter
+ipykernel

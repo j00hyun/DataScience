@@ -1,0 +1,73 @@
+1.2 Please answer:
+Did your results make sense? What relationships did the model capture?
+
+Yes, the results mostly made sense. The model captured relationships such as gender, geography, and word form patterns. For example, it can represent connections like man to king and woman to queen, or country to capital city. This shows that GloVe embeddings learn meaningful patterns from large amounts of text and store them as directions in vector space.
+
+1.2 Reflection:
+1. How do word embeddings like GloVe help in understanding relationships between words?
+
+Word embeddings like GloVe turn words into numerical vectors, so words with similar meanings or related roles are placed close to each other in vector space. Because of this, the model can capture relationships such as gender, tense, comparison, or country-capital pairs. This helps computers work with meaning in a mathematical way instead of treating words as unrelated symbols.
+
+2. Can you think of other applications where word vectors could be useful?
+
+Word vectors could be useful in search engines, recommendation systems, chatbots, translation, sentiment analysis, and text classification. They are also helpful for finding similar documents, correcting spelling based on context, and improving question-answering systems.
+
+1.3 Please answer:
+1. Give one example where TF-IDF retrieved reviews with high word overlap but weaker semantic similarity.
+
+For the query "Rooms were clean and in good condition. All amenities were in working condition.", TF-IDF returned a review saying "The rooms are not in good condition..." as one of the top results. This happened because TF-IDF matched words like "rooms", "good condition", and "condition", even though the meaning was more negative and less semantically similar to the original query.
+
+2. Give one example where sentence embeddings retrieved a semantically similar review with different wording.
+
+For the query "Breakfast was disappointing, but the staff were friendly and helpful.", sentence embeddings retrieved a review saying "Improvements could be done on the complimentary breakfast section..." This result used different wording, but it captured a similar meaning because both reviews expressed dissatisfaction with breakfast.
+
+3. In a hotel-review search system, when will embedding-based retrieval be more useful than keyword matching?
+
+Embedding-based retrieval is more useful when the query and the review describe the same experience using different words. For example, a user may search for a clean, quiet, spacious room, while a review may describe the hotel as spotless, peaceful, and comfortable. In those cases, embeddings are better because they focus on meaning instead of exact keyword overlap.
+
+2.2 Please answer:
+1. What was the final training accuracy of your LSTM model?
+
+The final training accuracy of my LSTM model was 98.78%.
+
+2. At which epoch did the model start performing well?
+
+The model started performing well around Epoch 2. At that point, the training accuracy increased to 89.30% and the validation accuracy improved to 78.44%, which was the best validation performance. After that, the training accuracy kept increasing, but the validation accuracy began to drop, which suggests overfitting.
+
+2.3 Please answer:
+1. What was the final validation accuracy of your RoBERTa model?
+
+The final validation accuracy of my RoBERTa model was 88.30%.
+
+2. Did it outperform the LSTM? Why or why not?
+
+Yes, it outperformed the LSTM. The best validation accuracy of the LSTM was 78.44%, while the RoBERTa model reached 88.30%. This is likely because RoBERTa is a pretrained transformer model that already understands a lot about language and context, so it can capture sentence meaning better than the LSTM trained on a smaller subset of data.
+
+2.4 Knowledge Check:
+1. What are the strengths and weaknesses of using rule-based sentiment analysis compared to learned models like LSTM or RoBERTa?
+
+Rule-based sentiment analysis like VADER is fast, simple, and does not need training data. However, it is weaker at understanding context, sarcasm, negation, and sentences written in different languages or unusual styles. Learned models like LSTM and RoBERTa can capture more complex patterns, but they require training data and more computation.
+
+2. How does the attention mechanism in Transformers improve model performance?
+
+The attention mechanism helps the model look at all important words in a sentence at the same time instead of only reading in order. This improves performance because the model can better understand context, long-range relationships, and which words matter most for the prediction.
+
+3. For each model, choose one example from the sentiment table where the model made a mistake. Why do you think it failed?
+
+For VADER, the sentence "Ce film était très bon." was predicted as neutral even though it is positive. It likely failed because the sentence is in French, so the rule-based system could not recognize the sentiment words well.
+
+For LSTM, the sentence "Der Film war wirklich schlecht." was predicted as positive even though it is negative. It likely failed because the model was trained mainly on English data and could not understand the German words correctly.
+
+For RoBERTa, I did not see a mistake in this table. It correctly predicted all of the examples shown, so it appeared to handle these test cases better than the other models.
+
+4. What does GloVe use to represent word meaning?
+
+GloVe represents word meaning using dense numerical vectors learned from word co-occurrence statistics in a large text corpus. Words that appear in similar contexts get similar vector representations.
+
+5. Why does RoBERTa outperform LSTM in some cases?
+
+RoBERTa can outperform LSTM because it is a pretrained transformer model with a stronger understanding of context and language patterns. Its attention mechanism helps it capture relationships between words more effectively, even when the wording is more complex.
+
+6. How does padding affect model performance?
+
+Padding is added so sentences in the same batch have the same length. If the model treats padding like real words, performance can get worse because it learns from meaningless tokens. That is why attention masks are important: they tell the model which tokens are real and which are only padding.
